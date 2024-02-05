@@ -144,3 +144,4 @@ def load_prompts():
 load_prompts()
 # Mise en route de notre application
 app.mainloop()
+# 
